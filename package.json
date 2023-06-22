@@ -11,6 +11,6 @@
   "dependencies": {
     "fs-extra": "^9.0.0",
     "glob": "^7.1.6",
-    "images": "^3.0.2"
+    "images": "^3.2.4"
   }
 }
